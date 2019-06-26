@@ -1,0 +1,5 @@
+mvn archetype:generate -DgroupId=com.logicsys.app \
+                       -DartifactId=my-app \
+                       -DarchetypeArtifactId=maven-archetype-quickstart \
+                       -DarchetypeVersion=1.9 \
+                       -DinteractiveMode=false
